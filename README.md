@@ -97,6 +97,7 @@ streamlit run app.py
 ```
 
 📝 Licencia
+
 Este proyecto se distribuye bajo fines de desarrollo interno y portafolio técnico de Ingeniería de Datos / Arquitectura de IA.
 
 Desarrollado por Alejandro Terrazas.
