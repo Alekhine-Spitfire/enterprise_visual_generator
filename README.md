@@ -86,8 +86,8 @@ AZURE_OPENAI_KEY_TEXT="tu_api_key_de_gpt4o"
 AZURE_OPENAI_ENDPOINT_TEXT="tu_endpoint_de_gpt4o"
 AZURE_DEPLOYMENT_GPT4O="tu_nombre_de_despliegue"
 
-AZURE_OPENAI_KEY_IMAGE="tu_api_key_de_dalle3"
-AZURE_OPENAI_ENDPOINT_IMAGE="tu_endpoint_de_dalle3"
+AZURE_OPENAI_KEY_IMAGE="tu_api_key_de_image_model"
+AZURE_OPENAI_ENDPOINT_IMAGE="tu_endpoint_de_image_model"
 AZURE_DEPLOYMENT_IMAGE_MODEL="tu_nombre_de_despliegue_image_model"
 ```
 
