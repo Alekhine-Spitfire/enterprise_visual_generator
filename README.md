@@ -101,14 +101,3 @@ Este proyecto se distribuye bajo fines de desarrollo interno y portafolio técni
 
 Desarrollado por Alejandro Terrazas.
 
----
-
-### 🏁 ¿Cómo actualizarlo en GitHub?
-
-Abre tu terminal en VS Code y ejecuta estos tres comandos rápidos para actualizar la documentación en la nube:
-
-```powershell
-git add README.md
-git commit -m "docs: actualizar README con etiquetas profesionales de Shields.io"
-git push origin main
-```
