@@ -99,7 +99,7 @@ for index, record in enumerate(st.session_state.chat_history):
         st.write("¡Prompt alineado a las directrices de la marca!")
         with st.expander("Ver prompt enriquecido enviado por la API"):
             st.code(record['enriched_prompt'], language="text")
-        st.image(record['image_bytes'], caption=f"Activo visual corporativo oficial - Estilo: {record['brand_profile']}", use_column_width=True)
+        st.image(record['image_bytes'], caption=f"Activo visual corporativo oficial - Estilo: {record['brand_profile']}")
         st.download_button(
             label=f"📥 Descargar Activo Visual {index + 1} (PNG)",
             data=record['image_bytes'],
