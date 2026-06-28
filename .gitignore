@@ -1,0 +1,10 @@
+# Entorno virtual local
+.venv/
+venv/
+__pycache__/
+
+# Secretos de Infraestructura (¡OBLIGATORIO!)
+.env
+
+# Archivos sueltos de Streamlit
+.streamlit/config.toml
