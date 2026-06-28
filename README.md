@@ -88,7 +88,7 @@ AZURE_DEPLOYMENT_GPT4O="tu_nombre_de_despliegue"
 
 AZURE_OPENAI_KEY_IMAGE="tu_api_key_de_dalle3"
 AZURE_OPENAI_ENDPOINT_IMAGE="tu_endpoint_de_dalle3"
-AZURE_DEPLOYMENT_DALLE3="tu_nombre_de_despliegue_dalle3"
+AZURE_DEPLOYMENT_IMAGE_MODEL="tu_nombre_de_despliegue_image_model"
 ```
 
 5. Ejecutar la Aplicación
